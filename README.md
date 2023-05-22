@@ -1,3 +1,5 @@
 # Movie
 
-## Movie App developed for understanding MVVM Unit Testing in Android
+# Android Developer Test
+
+## Movie App developed following MVVM and done Unit Testing in Android
